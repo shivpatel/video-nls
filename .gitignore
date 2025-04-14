@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+descriptions
+scene_keyframes
+
+.DS_Store
